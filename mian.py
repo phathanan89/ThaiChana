@@ -1,2 +1,2 @@
 print"porramet"
-print"000S"
+print"kuy"
